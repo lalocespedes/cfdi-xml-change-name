@@ -1,0 +1,15 @@
+{
+    "name": "arthaleon/cfdi-xml-change-name",
+    "authors": [
+        {
+            "name": "Eduardo Cespedes",
+            "email": "lalocespedes@gmail.com"
+        }
+    ],
+    "autoload":{
+      "psr-4":{
+       "lalocespedes\\": "lalocespedes"
+      }
+  },
+    "require": {}
+}
